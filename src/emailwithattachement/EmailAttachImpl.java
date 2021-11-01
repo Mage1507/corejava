@@ -57,7 +57,7 @@ public class EmailAttachImpl extends UnicastRemoteObject implements EmailAttache
 
             protected PasswordAuthentication getPasswordAuthentication() {
 
-                return new PasswordAuthentication("mageshmscss@gmail.com", "Marvellous_M@gesh");
+                return new PasswordAuthentication("mageshmscss@gmail.com", "");
 
             }
 
